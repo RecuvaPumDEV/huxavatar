@@ -14,7 +14,7 @@
 
 To install the HuxAvatar addon, follow these steps:
 
-1. **Download the latest version** from [BuiltByBit](https://builtbybit.com/resources/huxregister.54689).
+1. **Download the latest version** from [BuiltByBit](https://builtbybit.com/resources/huxavatar.54689).
 2. **Upload the `huxavatar.blueprint` file** to your Pterodactyl directory (usually located at `/var/www/pterodactyl`).
 3. **Open your terminal** (using Putty, Termius, etc.) and run the following command:
 
